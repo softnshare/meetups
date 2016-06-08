@@ -1,2 +1,2 @@
-# meetups-
+# meetups
 Meetups request 
