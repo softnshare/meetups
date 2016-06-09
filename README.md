@@ -15,9 +15,9 @@ Soft & Share的MeetUp完全透過網路進行, 我們會使用以下工具
 ## 如何發起Meetup? 
 
 - 請先[加入Soft & Share Slack](https://softnshare.wordpress.com/slack/)
-- 請將Github帳號透過slack direct message給我(slak id maoyang)
+- 請將Github帳號透過slack direct message給站長(slak id maoyang)
 - 到[Github issue](https://github.com/softnshare/meetups/issues)寫下meetup主題與內容
-- 我會幫您建立meetup private channel
+- 我們會幫您建立meetup private channel
 - 宣傳meetup, meetup新增後會同步出現在Soft & Share meetup slack channel, 如果您想讓更多人知道, 除了在Soft & Share slack中宣傳也可以將meetup github issue url分享到FB相關社群找同好
 
 ## 如何加入MeetUp 
