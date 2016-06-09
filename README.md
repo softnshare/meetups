@@ -1,4 +1,4 @@
-# Soft & Share 網路meetups
+# Soft & Share 網路meetup
 
 ## Why?
 
