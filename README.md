@@ -10,6 +10,12 @@ Soft & Share的meet up完全透過網路進行, 我們會使用以下工具
 - Slack 網路群組聊天室, 線上文字討論, hangout會議進入網址發佈
 - Github 知識管理, 議題討論, sample code共享
 
+## meet up適合那些主題?
+- 每次Google/Facebook/Apple開發者大會結束, 就很適合來辦meet up, 可以針對新的技術主題討論與互相學習
+- 創業心得分享與討論
+- opensource作品分享, 順便找同好一起開發
+
+
 ## 如何發起meet up? 
 
 - 請先[加入Soft & Share Slack](https://softnshare.wordpress.com/slack/)
