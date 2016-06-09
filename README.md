@@ -20,7 +20,7 @@ Soft & Share的MeetUp完全透過網路進行, 我們會使用以下工具
 - 我們會幫您建立meetup private channel
 - 宣傳meetup, meetup新增後會同步出現在Soft & Share meetup slack channel, 如果您想讓更多人知道, 除了在Soft & Share slack中宣傳也可以將meetup github issue url分享到FB相關社群找同好
 
-## 如何加入MeetUp 
+## 如何加入MeetUp?
 - 要加入meetup成員必須要[加入Soft & Share Slack](https://softnshare.wordpress.com/slack/)
 - 到MeetUp github issue留言寫下slack id就可以了, MeetUp發起人會將您加入MeetUp slack channel
 
