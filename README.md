@@ -12,6 +12,7 @@ Soft & Share的meet up完全透過網路進行, 我們會使用以下工具
 
 ## meet up適合那些主題?
 - 每次Google/Facebook/Apple開發者大會結束, 就很適合來辦meet up, 可以針對新的技術主題討論與互相學習
+- 特定主題, 如DevOps , Agile etc 
 - 創業心得分享與討論
 - opensource作品分享, 順便找同好一起開發
 
